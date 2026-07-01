@@ -1,0 +1,10 @@
+{
+  "name": "SARA Call Agent",
+  "description": "An AI Calling Agent that calls users and acts as a credit card or loan telecaller to pitch offers. The user acts as the customer.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
